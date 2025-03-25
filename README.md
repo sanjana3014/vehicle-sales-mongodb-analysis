@@ -67,10 +67,10 @@ Open mongosh and paste queries from queries.js.
 
 ## 📊 Results Summary
 
-**Metric** |	**Finding	Business** | **Impact**
-Top-selling type |	SUVs (704 units, 70% share) |	Focus marketing on SUV promotions.
-Avg. SUV price |	$47,857 |	Competitive pricing strategies.
-Hybrid availability |	153 vehicles (15% inventory) |	Highlight eco-friendly options.
-
+| **Key Metric**          | **Data Finding**                 | **Recommended Action**                   |
+|-------------------------|----------------------------------|------------------------------------------|
+| 🚗 Top-selling type     | SUVs (704 units, 70% share)      | • Prioritize SUV promotions<br>• Expand SUV inventory |
+| 💰 Average SUV price   | $47,857                          | • Price matching analysis<br>• Bundle deals strategy |
+| 🌿 Hybrid availability | 153 vehicles (15% inventory)     | • Green marketing campaigns<br>• Tax credit education |
 📜 License
 MIT License. See LICENSE for details.
