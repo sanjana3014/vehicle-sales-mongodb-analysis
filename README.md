@@ -26,15 +26,11 @@ vehicle-sales-mongodb-analysis/
 
 │ └── queries.js # All 12 assignment queries 
 
-├── docs/ # Supporting documents
-
 │ ├── Analysis_Report.pdf
 
 │ └── Data_Dictionary.md # Dataset schema
 
-├── screenshots/ # Query execution proofs
-
-└── video/ # MP4 demo 
+└── video/ # MP4 demo (Link to drive: https://drive.google.com/file/d/1690c1TdwAEFceljf97tLTbnUhmBPDIXz/view?usp=sharing)
 
 
 ---
