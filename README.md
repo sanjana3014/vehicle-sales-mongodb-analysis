@@ -33,7 +33,6 @@ vehicle-sales-mongodb-analysis/
 
 ## 🔍 Key Queries & Insights  
 ### 1. Inventory Analysis  
-```javascript
 // Count Jeep vehicles  
 db.vehicles.countDocuments({ make: "Jeep" });  // 194 Jeeps
 
