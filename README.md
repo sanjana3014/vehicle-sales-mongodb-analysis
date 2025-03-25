@@ -19,13 +19,21 @@ This project analyzes the **Vehicle Dataset 2024** (1,002 entries) using MongoDB
 ---
 
 ## 📂 Repository Structure
+
 vehicle-sales-mongodb-analysis/
+
 ├── queries/ # MongoDB query scripts
+
 │ └── queries.js # All 12 assignment queries 
+
 ├── docs/ # Supporting documents
+
 │ ├── Analysis_Report.pdf
+
 │ └── Data_Dictionary.md # Dataset schema
+
 ├── screenshots/ # Query execution proofs
+
 └── video/ # MP4 demo 
 
 
